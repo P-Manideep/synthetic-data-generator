@@ -1,6 +1,6 @@
 # 🚀 Synthetic Data Generator
 
-A web-based synthetic data generation platform that creates realistic datasets for testing Machine Learning models, dashboards, analytics systems, and data pipelines.
+A web-based synthetic data generation platform that creates realistic datasets for testing Machine Learning models, dashboards, analytics systems, and data pipelines
 
 🔗 **Live App:**  
 https://synthetic-data-generator-6utgy9n5mkwfn8pznpqcaq.streamlit.app/
